@@ -630,6 +630,10 @@ video {
   width: 600px;
 }
 
+.w-\[80\%\] {
+  width: 80%;
+}
+
 .w-full {
   width: 100%;
 }
@@ -884,6 +888,10 @@ video {
 
   .sm\:w-\[700px\] {
     width: 700px;
+  }
+
+  .sm\:w-full {
+    width: 100%;
   }
 
   .sm\:bg-MobileBackground {
