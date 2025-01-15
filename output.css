@@ -894,6 +894,10 @@ video {
     width: 100%;
   }
 
+  .sm\:w-\[600px\] {
+    width: 600px;
+  }
+
   .sm\:bg-MobileBackground {
     background-image: url('assets/images/background-mobile.png');
   }

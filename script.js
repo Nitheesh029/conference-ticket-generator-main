@@ -91,7 +91,7 @@ submitBtn.addEventListener('click', (e)=>{
         the run up to the event.
       </p>
     </div>
-    <div id="ticket" class="bg-ticketBg z-10 h-[280px] w-[600px] mt-20 flex flex-col justify-around relative">
+    <div id="ticket" class="bg-ticketBg z-10 h-[280px] sm:w-[600px] mt-20 flex flex-col justify-around relative">
       <div>
          <a href="index.html">
           <p class="text-3xl flex gap-2 pt-5 pl-8"><img src="assets/images/logo-mark.svg" alt="" class="w-[30px]"> Coding Conf</p>
