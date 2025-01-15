@@ -598,12 +598,12 @@ video {
   height: 150px;
 }
 
-.h-\[280px\] {
-  height: 280px;
+.h-\[200px\] {
+  height: 200px;
 }
 
-.h-\[400px\] {
-  height: 400px;
+.h-\[280px\] {
+  height: 280px;
 }
 
 .h-full {
@@ -878,10 +878,6 @@ video {
 }
 
 @media (min-width: 640px) {
-  .sm\:mt-10 {
-    margin-top: 2.5rem;
-  }
-
   .sm\:w-\[500px\] {
     width: 500px;
   }
